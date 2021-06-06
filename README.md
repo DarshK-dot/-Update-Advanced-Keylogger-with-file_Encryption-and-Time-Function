@@ -33,6 +33,12 @@ How to get key:
  - Run it.
  - the new file names encryption.txt will generate 
  - note that: keep the genrated key safe and save it somewhere in order to decrypt the files without key files will not decrypt.
+
+How to decrypt the Encrypted file:
+ - Open the decrpt.py file
+ - Enter the key that you used for file encryption
+ - enter file name do some changes if needed
+ - run the decrypt.py
  
 Do this changes and you are good to go   :)
  
