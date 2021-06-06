@@ -25,6 +25,14 @@ Replace "your email address" with the email address from which you want to send 
 Replace "password" with your email's password
  
 Replace "receivers mail id" with the mail id you want to send data
+
+Replace the key position with the key present in encryption.txt file 
+
+How to get key:
+ - download the generatekey.py
+ - Run it.
+ - the new file names encryption.txt will generate 
+ - note that: keep the genrated key safe and save it somewhere in order to decrypt the files without key files will not decrypt.
  
 Do this changes and you are good to go   :)
  
