@@ -43,7 +43,7 @@ file_merge = file_path + extend
 
 microphone_time = 1
 
-key = "Key generated from generate.py"
+key = "Key generated from generatekey.py"
 
 email_address = "your mail id"
 password = "your password"
